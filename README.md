@@ -21,7 +21,7 @@ The system is organized in five layers for clarity, scalability, and cost contro
 3. **Vision Layer (`medgemma.py` + remote notebook API)**
    - MedGemma 1.5 4B runs remotely (Kaggle/Colab + Ngrok).
    - Local client sends image payloads and receives morphology findings.
-   - Kaggle notebook used for remote API: [HistoLens SmartScope MedGemma API](https://www.kaggle.com/code/erickfjsantos/histolens-smartscope-medgemma-api)
+   - Kaggle notebook used for remote API: [HistoLens SmartScope MedGemma API](https://www.kaggle.com/code/erickfjsantos/histolens-smartscope-medgemma-processing-api)
 
 4. **Synthesis Layer (`maestro.py`)**
    - Gemini converts findings into concise clinician-facing responses suitable for TTS.
