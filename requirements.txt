@@ -1,0 +1,11 @@
+python-dotenv
+google-generativeai
+google-cloud-speech
+google-cloud-texttospeech
+google-auth
+numpy
+sounddevice
+opencv-python
+openslide-python
+requests
+pillow
