@@ -5,7 +5,8 @@ HistoLens SmartScope AI is a layered, cloud-edge pathology assistant for hands-f
 ## Demo
 
 - YouTube pitch/demo: https://www.youtube.com/
-- Simulator GIF: add your GIF in this section (recommended: `docs/histolens_demo.gif`)
+<img width="974" height="482" alt="image" src="https://github.com/user-attachments/assets/a6e530ad-8301-47ba-b5f3-737bbe106358" />
+
 
 ## Architecture Overview
 
