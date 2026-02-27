@@ -82,7 +82,7 @@ Optional:
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ErickFJSantos314/Histolens-Smartscope
 cd HistoLens
 conda create -n histolens python=3.10 -y
 conda activate histolens
